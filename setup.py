@@ -14,7 +14,7 @@ setup(
     description='continous and data-driven molecular descriptors (CDDD)',
     python_requires='==3.8',
     install_requires=[
-        'tensorflow-gpu==1.10.0',
+        'tensorflow-gpu==1.15.0',
         'scikit-learn',
         'pandas<=1.0.3',
         'requests',
