@@ -6,7 +6,7 @@ channels:
 
 dependencies:
   - tensorflow-gpu=1.15
-  - python=3.6
+  - python=3.8
   - numpy=1.19
   - rdkit
   - scikit-learn
