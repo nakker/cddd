@@ -22,7 +22,7 @@ setup(
       ],
     extras_require = {
         'cpu': [
-            'tensorflow==1.10.0'
+            'tensorflow==1.15.0'
             ]
     },
     entry_points={
