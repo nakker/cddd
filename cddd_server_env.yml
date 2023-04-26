@@ -5,7 +5,7 @@ channels:
   - rdkit
 
 dependencies:
-  - tensorflow-gpu=1.15
+  - tensorflow-gpu=1.15.5
   - python=3.8
   - numpy=1.19
   - rdkit
