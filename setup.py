@@ -7,7 +7,7 @@ setup(
     package_data={'cddd': ['data/*', 'data/default_model']},
     include_package_data=True,
     url='https://github.com/jrwnter/cddd',
-    download_url='https://github.com/nakker/cddd/archive/refs/tags/1.2.2.tar.gz',
+    download_url='https://codeload.github.com/nakker/cddd/zip/refs/heads/master',
     license='MIT',
     author='Robin Winter',
     author_email='robin.winter@bayer.com',
